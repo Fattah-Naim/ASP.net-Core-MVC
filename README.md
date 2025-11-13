@@ -6,5 +6,4 @@ This is my asp.net core mvc project . Here i use:
 <li>JavaScript, </li>
 <li>jQuery and </li>
 <li>MSSQL</li>
-</br>
-Author-Fattah naim
+</br>Author-Fattah naim
